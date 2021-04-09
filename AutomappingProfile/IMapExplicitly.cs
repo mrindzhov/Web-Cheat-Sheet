@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace AutoMapper
+namespace Automapper
 {
     public interface IMapExplicitly
     {
